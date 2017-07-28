@@ -2,107 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4811b0b5-495b-428b-8ca3-107fd374b07b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/App.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/annotation/RegisterFor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/constant/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/AbstractWechatContext$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/AbstractWechatContext$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/AbstractWechatContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/AnnotationWechatContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/DefaultLifecycleProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/DefaultWechatContext$1$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/DefaultWechatContext$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/DefaultWechatContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/HandlerMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/LifecycleProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/MessageProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/Processor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/WechatContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/core/WechatSyncMessageProcessor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/AbstractMessageHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/DefaultWechatFactoryBean$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/DefaultWechatFactoryBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/MessageHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/MessageProduce.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/Wechat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/WechatFactoryBean.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/WechatMessage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/factory/WxMessageProduce.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/MXHttpClient$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/MXHttpClient$StringResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/MXHttpClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/SSLContextFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/SSLContextFactory$TrustAnyTrustManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/http/SSLContextFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/RequestUrlBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/MessageType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/RequestEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/ResultEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/ResultTools.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/UrlEnum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/classes/mobi/mixiong/wx/util/enums/WechatStatus.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/target/test-classes/mobi/mixiong/wx/AppTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/core.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/annotation/RegisterFor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/constant/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AbstractWechatContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AnnotationWechatContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/DefaultLifecycleProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/DefaultWechatContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/HandlerMap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/LifecycleProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/MessageProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/Processor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/WechatContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/WechatSyncMessageProcessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/AbstractMessageHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/DefaultWechatFactoryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/MessageHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/MessageProduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/Wechat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/WechatFactoryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/WechatMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/WxMessageProduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/http/MXHttpClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/http/SSLContextFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/RequestUrlBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/MessageType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/RequestEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/ResultEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/ResultTools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/UrlEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/util/enums/WechatStatus.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/src/test/java/mobi/mixiong/wx/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/example.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/src/main/java/mobi/mixiong/wx/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/src/test/java/mobi/mixiong/wx/AppTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/itchat4j.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="itchat4j.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -132,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AbstractWechatContext.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="92" column="64" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -141,8 +41,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6565064">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.16236162">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -282,7 +182,6 @@
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/WxMessageProduce.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/factory/MessageHandler.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/DefaultWechatContext.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AbstractWechatContext.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AnnotationWechatContext.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/WechatSyncMessageProcessor.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/LifecycleProcessor.java" />
@@ -295,6 +194,7 @@
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/DefaultLifecycleProcessor.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/MessageProcessor.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AbstractWechatContext.java" />
       </list>
     </option>
   </component>
@@ -323,8 +223,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
-    <option name="width" value="1934" />
-    <option name="height" value="1042" />
+    <option name="y" value="-11" />
+    <option name="width" value="2902" />
+    <option name="height" value="1582" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -373,7 +274,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -397,23 +297,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itchat4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="itchat4j" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -954,26 +841,28 @@
       <workItem from="1500431579188" duration="5865000" />
       <workItem from="1500444370571" duration="6135000" />
       <workItem from="1500875770464" duration="3040000" />
-      <workItem from="1500878825305" duration="105000" />
+      <workItem from="1500878825305" duration="1048000" />
+      <workItem from="1501136605510" duration="2236000" />
+      <workItem from="1501206473250" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85351000" />
+    <option name="totallyTimeSpent" value="88545000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1934" height="1042" extended-state="0" />
+    <frame x="-11" y="-11" width="2902" height="1582" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.014407684" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.009588068" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19583778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12819602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1234,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3328424">
           <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1270,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.51042944">
           <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,15 +1261,15 @@
     <entry file="file://$PROJECT_DIR$/core/src/main/java/mobi/mixiong/wx/core/AbstractWechatContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="64" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6565064">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.16236162">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
