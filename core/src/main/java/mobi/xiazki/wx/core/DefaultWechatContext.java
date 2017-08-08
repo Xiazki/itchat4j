@@ -1,6 +1,7 @@
 package mobi.xiazki.wx.core;
 
 import mobi.xiazki.wx.factory.*;
+import mobi.xiazki.wx.util.enums.MessageType;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,7 +47,7 @@ public class DefaultWechatContext extends AbstractWechatContext {
 
                     @Override
                     public Integer getType() {
-                        return 1;
+                        return MessageType.TEXT.getType();
                     }
                 });
             }
